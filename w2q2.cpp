@@ -65,7 +65,7 @@ int main() {
                 break;
 
             case 4:
-                cout << "Exiting program... Take care, Neha 🌸" << endl;
+                cout << "Exiting program" << endl;
                 break;
 
             default:
