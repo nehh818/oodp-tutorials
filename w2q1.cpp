@@ -92,7 +92,7 @@ int main() {
                 break;
 
             case 6:
-                cout << "Exiting program... Bye, Neha 😘" << endl;
+                cout << "Exiting program" << endl;
                 break;
 
             default:
